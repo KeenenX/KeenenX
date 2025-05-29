@@ -23,7 +23,7 @@
   - [Creating a Password Generator: Step-by-Step](https://github.com/KeenenX/Password-Generator)
 - <b>Password Cracker (Python)</b>
   - [Creating a Password Cracker: Step-by-Step](https://github.com/KeenenX/Password-Cracker) <b><i>(Potentially NSFW)</b></i>
-- <b>Password Manager - GUI App with Encryption </b>
+- <b>Password Manager - App w/ Encryption </b>
   - [Creating a Password Manager: Step-by-Step](https://github.com/KeenenX/Password-Generator)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
