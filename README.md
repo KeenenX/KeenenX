@@ -2,39 +2,55 @@
 
 <h2>👨‍💻 Cybersecurity Engineering Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-<h2>🤖 Python & Automation Development Projects:</h2>
-
-- <b>🔐 Password Security Projects</b>
+- <b>🔐 Authentication & Access Security Projects</b>
   - [Password Generator - GUI](https://github.com/KeenenX/Password-Generator)
   - [Password Cracker (Python)](https://github.com/KeenenX/Password-Cracker) <b><i>(Potentially NSFW)</b></i>
   - [Password Manager - App w/ Encryption](https://github.com/KeenenX/Password-Manager)
-- <b>🌐 Network Reconnaissance & Scanning</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>🛡️ Blue Team / SOC Automation</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>🌐 Network Reconnaissance & Security Monitoring</b>
+  - [Port Scanner](https://github.com/KeenenX/Password-Generator)
+  - [Network Scanner](https://github.com/KeenenX/Password-Cracker)
+  - [Network Security Monitoring](https://github.com/KeenenX/Password-Manager)
+  - [Wireshark Traffic Analysis](https://github.com/KeenenX/Password-Manager)
+- <b>🧠 Threat Intelligence & SIEM</b>
+  - [Threat Intelligence & SIEM](https://github.com/KeenenX/Password-Generator)
+  - [Enhanced Threat Intel Research](https://github.com/KeenenX/Password-Cracker)
+  - [Advanced Phishing Investigation](https://github.com/KeenenX/Password-Manager)
+- <b>🔍 Vulnerability & Endpoint Security</b>
+  - [Vulnerability Scanner Project](https://github.com/KeenenX/Password-Generator)
+  - [CrowdStrike Falcon Project](https://github.com/KeenenX/Password-Cracker)
+  - [Encryption & Data Protection](https://github.com/KeenenX/Password-Manager)
+- <b>🚨 Incident Response & SOC Ops</b>
+  - [Incident Response Automation](https://github.com/KeenenX/Password-Generator)
+  - [SOC Analyst Home Lab](https://github.com/KeenenX/Password-Cracker)
+  - [Log Analysis with ELK Stack](https://github.com/KeenenX/Password-Manager)
+  - [Splunk Project](https://github.com/KeenenX/Password-Generator)
+  - [Snort IDS Project](https://github.com/KeenenX/Password-Cracker)
+  - [Investigating Cyber Threats](https://github.com/KeenenX/Password-Manager)
+  - [Capstone IR Simulation](https://github.com/KeenenX/Password-Manager)
+- <b>💥 Red Team - Offensive Security</b>
+  - [Dynamic Threat Simulation](https://github.com/KeenenX/Password-Generator)
+  - [Penetration Testing & Ethical Hacking](https://github.com/KeenenX/Password-Cracker)
+  - [Malware Forensics Project](https://github.com/KeenenX/Password-Manager)
+<h2>🤖 Python & Automation Development Projects:</h2>
 
+- <b>🐍 Python Security Automation Tools</b>
+  - [Port Scanner](https://github.com/KeenenX/Password-Generator)
+  - [Network Scanner](https://github.com/KeenenX/Password-Cracker)
+  - [Password Generator - GUI](https://github.com/KeenenX/Password-Generator)
+  - [Password Cracker (Python)](https://github.com/KeenenX/Password-Cracker) <b><i>(Potentially NSFW)</b></i>
+  - [Password Manager - App w/ Encryption](https://github.com/KeenenX/Password-Manager)
+- <b>🧠 Automated Threat Detection & Response</b>
+  - [Incident Response Automation](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Threat Intelligence & SIEM](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [CrowdStrike Falcon Project](https://github.com/joshmadakor1/AD_PS)
+  - [Vulnerability Scanner Project](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>⚙️ Log, Alert & Data Pipeline Automation</b>
+  - [Log Analysis with ELK Stack](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Splunk Project](https://github.com/joshmadakor1/DecrypterPOC)
+- <b>💥 Red Team - Offensive Security Tools</b>
+  - [Custom Keylogger](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) <b><i>(Ethical Use Only)</b></i>
+  - [Hacker Typer Terminal](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) <b><i>(Ethical Use Only)</b></i>
+  - [Evil QR Code Generator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) <b><i>(Ethical Use Only)</b></i>
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
