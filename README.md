@@ -7,8 +7,8 @@
   - [Password Cracker (Python)](https://github.com/KeenenX/Password-Cracker) <b><i>(Potentially NSFW)</b></i>
   - [Password Manager - App w/ Encryption](https://github.com/KeenenX/Password-Manager)
 - <b>🌐 Network Reconnaissance & Security Monitoring</b>
-  - [Port Scanner](https://github.com/KeenenX/Password-Generator)
-  - [Network Scanner](https://github.com/KeenenX/Password-Cracker)
+  - [Port Scanner](https://github.com/KeenenX/Advanced-Network-Scanner-)
+  - [Network Scanner](https://github.com/KeenenX/Advanced-Network-Scanner-)
   - [Network Security Monitoring](https://github.com/KeenenX/Password-Manager)
   - [Wireshark Traffic Analysis](https://github.com/KeenenX/Password-Manager)
 - <b>🧠 Threat Intelligence & SIEM</b>
