@@ -22,7 +22,7 @@
 - <b>🚨 Incident Response & SOC Ops</b>
   - [Incident Response Automation](https://github.com/KeenenX/Password-Generator)
   - [SOC Analyst Home Lab](https://github.com/KeenenX/Password-Cracker)
-  - [Log Analysis with ELK Stack](https://github.com/KeenenX/Password-Manager)
+  - [Log Analysis with ELK Stack](https://github.com/KeenenX/Elk-Stack-Guide)
   - [Splunk Project](https://github.com/KeenenX/Password-Generator)
   - [Snort IDS Project](https://github.com/KeenenX/Password-Cracker)
   - [Investigating Cyber Threats](https://github.com/KeenenX/Password-Manager)
